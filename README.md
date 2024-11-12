@@ -14,6 +14,7 @@ src="https://raw.githubusercontent.com/WillEckersley/WillEckersley/main/personal
 src="https://github.com/WillEckersley/WillEckersley/blob/main/personal_github_images/Docker.svg" width="100" height="50"> <img
 src="https://github.com/WillEckersley/WillEckersley/blob/main/personal_github_images/Githubactions.svg" width="100" height="50"> <img
 src="https://github.com/WillEckersley/WillEckersley/blob/main/personal_github_images/Polars.svg" width="100" height="50"> <img
+src="https://github.com/WillEckersley/WillEckersley/blob/main/personal_github_images/Selenium--Streamline-Simple-Icons.svg" width="100" height="50"> <img
 src="https://github.com/WillEckersley/WillEckersley/blob/main/personal_github_images/Presto.svg" width="100" height="50">
 
 
