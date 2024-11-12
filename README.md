@@ -1,9 +1,9 @@
 ### About me
 
-Hi, I'm Will, lovely to meet you! I love imagining the future, now I'm helping to build it as a trainee data engineer. I recently graduated from a remote, project-based bootcamp where I learned the skills you see below. 
+Hi, I'm Will, lovely to meet you! I love imagining the future, now I'm helping to build it. I have been working as a data engineer in London since May 2024 after graduating a 6-month intensive coding and cloud/data engineering bootcamp - AiCore. 
 
-- I’m currently building the design for a new Spark project. 
-- I’m currently learning Databricks (data engineer associate exam) and AI compliance/ethics
+- I’m currently building an AWS hosted web scraping project
+- I’m currently learning more about MLOps - Pytorch, MLFlow and Feast
 - Pronouns: He/Him
 - Fun fact: I used to be a philosopher, ask me anything about aethetics and ethics! 
 
